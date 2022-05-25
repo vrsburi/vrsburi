@@ -9,9 +9,13 @@
 
 ![POWER BI](https://dirceuresende.com/wp-content/uploads/2018/12/Microsoft-Power-BI-Logo-2.jpg)
 
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQL]()
 
 ![VRSBURI's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrsburi&show_icons=true&theme=merko)
-
 
 - 👋 Olá, sou Vinícius Rodrigo
 - - 👀 I’m interested in ...
