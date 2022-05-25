@@ -1,7 +1,7 @@
 Olá a todos!
-    Eu me chamo Vinícius Rodrigo
-    
-		[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+Eu me chamo Vinícius Rodrigo
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/vrsburii/?hl=pt-br)
 
 - 👋 Olá, sou Vinícius Rodrigo
